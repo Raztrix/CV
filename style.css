@@ -1,0 +1,52 @@
+body {
+  background-color: #ffd31d;
+}
+
+hr {
+  border-style: dotted;
+  border-top: 4px dashed red;
+  border-bottom: 4px dashed red;
+  border-radius: 100%;
+  width: 100%;
+}
+
+img {
+  border-radius: 50%;
+}
+
+thead,
+tfoot {
+  background-color: #6f0000;
+  color: #ff5200;
+}
+
+tbody {
+  background-color: #ff5200;
+  color: white;
+}
+
+caption {
+  padding: 10px;
+  caption-side: bottom;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(200, 200, 200);
+  padding: 5px 10px;
+}
+
+td,
+th {
+  border: 1px solid rgb(190, 190, 190);
+  padding: 5px 10px;
+}
+
+td {
+  text-align: center;
+}
+input{
+  background-color: Green;
+  border-radius: 16px;
+  color: white;
+}
